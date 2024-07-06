@@ -1,7 +1,7 @@
 # Detecting-Melanoma-using-CNNs
 
 >
-> This project uses a custom CNN to detect melanoma in images of skin lesions among 9 classes. The model predicts with an 87% accuracy.
+> This project uses a custom CNN to detect melanoma in images of skin lesions among 9 classes.
 
 ## Table of Contents
 
@@ -62,7 +62,7 @@ Refer notebook for details
 
 # Conclusion
 
-As the accuracy of the model increases, the loss decreases. The final model has an accuracy of 87% and a loss of 0.3. The model is able to predict the class of the lesion with a high accuracy.
+As the accuracy of the model increases, the loss decreases. The model is able to predict the class of the lesion with a high accuracy.
 Augmenting the data and countering class imbalance helped in improving the accuracy of the model.
 
 # Technologies Used
